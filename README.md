@@ -30,4 +30,4 @@ python train.py
 streamlit run app.py
 
 ## Links
-GitHub: <YOUR_LINK> | LinkedIn: <YOUR_LINK>
+GitHub: <https://github.com/pooja1812-alt/robotic-machine-failure-prediction> | LinkedIn: <https://www.linkedin.com/in/pooja18sharma/>
